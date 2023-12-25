@@ -1,8 +1,3 @@
-# libft_42
-Certainly! Here's a basic README.md file for your libft.a project:
-
----
-
 # libft.a - Your Custom C Library
 
 `libft.a` is a custom C library containing a collection of commonly used functions to make your C programming life easier. This library provides various utility functions for string manipulation, memory operations, linked list handling, and more.
